@@ -1,0 +1,55 @@
+@import 'https://fonts.googleapis.com/css?family=Lato:400,400i,700';
+
+body {
+	font-family: Lato, sans-serif;
+	background-image: url("https://www.petfinder.com/wp-content/uploads/2012/11/dog-how-to-select-your-new-best-friend-thinkstock99062463.jpg");
+}
+
+h1{
+	font-size: 128px;
+}
+
+nav {
+	background-color: #000000;
+}
+
+nav a {
+	margin-right: 0.05em;
+	margin-left: 1.25em;
+}
+
+a {
+	color: #F7F7F7;
+	text-decoration: none;
+	font-size: 28px;
+}
+
+ol {
+	list-style-position: inside;
+}
+
+ul {
+	list-style-position: inside;
+}
+
+.section {
+	text-align: center;
+	padding-top: 300px;
+	padding-bottom: 300px;
+}
+
+.section2 {
+	background-color: #000000;
+	color: #F7F7F7;
+	text-align: center;
+	padding-top: 300px;
+	padding-bottom: 300px;
+}
+
+#italics {
+	font-style: italic;
+}
+
+#bold {
+	font-weight: 700;
+}
